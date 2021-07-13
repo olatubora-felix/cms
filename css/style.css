@@ -1,0 +1,4 @@
+.pager li .active_link {
+    background: #286090 !important;
+    color: #fff !important;
+}
